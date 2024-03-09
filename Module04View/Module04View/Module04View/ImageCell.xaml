@@ -23,6 +23,10 @@
                                    TextColor="Black"
                                    Detail="{Binding Occupation}"
                                    DetailColor="DarkBlue">
+
+                            <ImageCell.ContextActions>
+                                <MenuItem Text="More Details" Clicked="Context_More_Clicked"/>
+                            </ImageCell.ContextActions>
                         </ImageCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

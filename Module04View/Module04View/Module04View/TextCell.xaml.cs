@@ -20,5 +20,10 @@ namespace Module04View
             listview_textcell_data.ItemsSource = DataModel.PeopleCollection;
 
         }
+
+        private void Context_More_Clicked (object sender, EventArgs e)
+        {
+            DisplayAlert("Details", "There are no additional details for this selection.", "Confirm");
+        }
     }
 }

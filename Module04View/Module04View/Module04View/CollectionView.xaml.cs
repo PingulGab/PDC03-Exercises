@@ -17,5 +17,10 @@ namespace Module04View
 			InitializeComponent ();
 			collectionview_data.ItemsSource = DataModel.PeopleCollection;
 		}
-	}
+
+        private void OnGridTapped(object sender, EventArgs e)
+        {
+            DisplayAlert("Grid Tapped", "You tapped on the grid", "OK");
+        }
+    }
 }

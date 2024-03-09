@@ -18,3 +18,4 @@ C:\repos\Module04View\Module04View\Module04View\obj\Debug\netstandard2.0\ImageCe
 C:\repos\Module04View\Module04View\Module04View\obj\Debug\netstandard2.0\SwitchCell.xaml.g.cs
 C:\repos\Module04View\Module04View\Module04View\obj\Debug\netstandard2.0\TextCell.xaml.g.cs
 C:\repos\Module04View\Module04View\Module04View\obj\Debug\netstandard2.0\CollectionView.xaml.g.cs
+C:\repos\Module04View\Module04View\Module04View\obj\Debug\netstandard2.0\Module04View.sourcelink.json

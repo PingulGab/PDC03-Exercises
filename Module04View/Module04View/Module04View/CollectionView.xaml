@@ -19,6 +19,11 @@
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <Grid RowSpacing="10">
+
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnGridTapped" />
+                            </Grid.GestureRecognizers>
+                            
                             <Image Source="{Binding Image}"
                                    Grid.RowSpan="4"
                                    WidthRequest="100"
