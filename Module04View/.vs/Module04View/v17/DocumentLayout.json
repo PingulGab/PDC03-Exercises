@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\Module04View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\collectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\collectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|c:\\repos\\module04view\\module04view\\module04view\\collectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9566212C-C022-418A-8462-17E3534770B5}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\collectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\App.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\App.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\App.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\App.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:15.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextCell.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextCell.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:12.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageCell.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageCell.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwitchCell.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwitchCell.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntryCell.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:05.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntryCell.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:05.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionView.xaml",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\CollectionView.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\CollectionView.xaml",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\CollectionView.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\CollectionView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T22:27:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollectionView.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Module04View\\Module04View\\Module04View\\CollectionView.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\CollectionView.xaml.cs",
+              "ToolTip": "C:\\repos\\Module04View\\Module04View\\Module04View\\CollectionView.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\CollectionView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:27:01.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

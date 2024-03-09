@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.ImageCell">
+
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label Text="Image Cell"
+                   TextColor="#1B227D"
+                   FontSize="Subtitle"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#fce0d9">
+            <ListView x:Name="listview_imagecell_data">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{Binding Image}"
+                                   Text="{Binding Name}"
+                                   TextColor="Black"
+                                   Detail="{Binding Occupation}"
+                                   DetailColor="DarkBlue">
+                        </ImageCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

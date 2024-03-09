@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.CollectionView">
+
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label Text="Collection View"
+                   TextColor="#1B227D"
+                   FontSize="Subtitle"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#fce0d9">
+            <CollectionView x:Name="collectionview_data">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid RowSpacing="10">
+                            <Image Source="{Binding Image}"
+                                   Grid.RowSpan="4"
+                                   WidthRequest="100"
+                                   HeightRequest="100"
+                                   Aspect="AspectFill"/>
+
+                            <Label Text="{Binding Name}"
+                                   FontAttributes="Bold"
+                                   TextColor="Black"
+                                   Grid.Column="1"/>
+
+                            <Label Grid.Row="1" Grid.Column="1">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Age: "/>
+                                        <Span Text="{Binding Age}"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+
+                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Description}"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

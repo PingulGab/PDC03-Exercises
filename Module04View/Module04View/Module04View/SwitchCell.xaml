@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.SwitchCell">
+
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label Text="Switch Cell"
+                   TextColor="#1B227D"
+                   FontSize="Subtitle"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#fce0d9">
+            <ListView x:Name="listview_switchcell_data">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <SwitchCell Text="{Binding Name}"
+                                    OnColor="DarkBlue"
+                                    OnChanged="SwitchToggled">
+                        </SwitchCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

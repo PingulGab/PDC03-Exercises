@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.EntryCell">
+
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label Text="Entry Cell"
+                   TextColor="#1B227D"
+                   FontSize="Subtitle"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#fce0d9">
+            <TableView x:Name="tableview_entrycell_data">
+                <TableRoot>
+                    <TableSection Title="Your Information" TextColor="DarkBlue">
+                        <EntryCell Label="First Name"
+                                   Placeholder="Ex. Juan"
+                                   x:Name="user_FName"/>
+                        <EntryCell Label="Age"
+                                   Placeholder="Ex. 21"
+                                   x:Name="user_Age"/>
+                        <EntryCell Label="Favorite Korean Entertainer"
+                                   Placeholder="Ex. Gong-Yoo"
+                                   x:Name="user_Favorite"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+
+            <Button BackgroundColor="#B8E6F2"
+                    Text="Submit" TextColor="#1B277D" FontAttributes="Bold" FontSize="18"
+                    BorderColor="#1B277D"
+                    BorderWidth="3"
+                    CornerRadius="30"
+                    Margin="100, 0, 100,400"
+
+                    Clicked="Btn_Submit_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
